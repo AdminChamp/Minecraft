@@ -18,3 +18,10 @@ To apply these textures:
 6. Move the texture folder to this directory
 7. Launch the Minecraft Launcher
 8. Have fun!
+To apply these hacks:
+1. Download the hack
+2. Double-click on that
+3. Install
+4. Launch the Minecraft Launcher
+5. Select the hack installation 
+6. Have fun!
